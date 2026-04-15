@@ -1,5 +1,5 @@
 ##Olá Meu nome é Pedro Pacheco!
-- 🔭 Hoje trabalho como analista de operações jurídicas no Itaú.
+- 🔭 Hoje trabalho como analista de TI no SinsaudeSp
 - 🌱 Estudando Ciência de Dados e Engenharia de Software
 - 
   
